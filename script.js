@@ -26,3 +26,11 @@ document.getElementById("project1Btn").addEventListener("click", function () {
 document.getElementById("project2Btn").addEventListener("click", function () {
     openVideoPopup("./assets/demoMultiClient.mp4");
 });
+
+document.getElementById("project3Btn").addEventListener("click", function () {
+    openVideoPopup("./assets/demoUnicarpool.mp4");
+});
+
+document.getElementById("project4Btn").addEventListener("click", function () {
+    openVideoPopup("./assets/demoMocea.mp4");
+});
