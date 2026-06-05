@@ -32,5 +32,5 @@ document.getElementById("project3Btn").addEventListener("click", function () {
 });
 
 document.getElementById("project4Btn").addEventListener("click", function () {
-    openVideoPopup("./assets/demoMocea.mp4");
+openVideoPopup("/website/assets/demoMocea.mp4");
 });
